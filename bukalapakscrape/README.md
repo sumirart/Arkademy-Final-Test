@@ -1,7 +1,7 @@
-# iPlix - Scrap (Beautify)
+# Scrape Bukalapak with BeautifulSoap4 auto save to DB
 
-
-Scrapping web stream movie using BeautifulSoup4 , Requests, flask and flask_sqlalchemy
+Scrape products in Bukalapak using BeautifulSoup4 , Requests, flask and save with mysqlclient
+bukapalak url = "https://m.bukalapak.com/c/handphone?from=category_home&page={}&search%5Bkeywords%5D="
 
 ## Installation Requierements
 
